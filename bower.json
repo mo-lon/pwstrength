@@ -1,0 +1,15 @@
+{
+  "name": "pwstrength",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mo-lon/pwstrength",
+  "description": "Password strength indicator",
+  "main": "src/pwstrength.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
